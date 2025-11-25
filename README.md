@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Eerik:
 📚 Currently studying **Tieto- ja viestintätekniikan perustutkinto (ICT)** at **Tampere Vocational College**, Finland<br>🚀 I like working on small projects and improve my software development skills
 
 
