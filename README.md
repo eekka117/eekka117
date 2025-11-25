@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently studying **Tieto- ja viestintätekniikan perustutkinto (ICT)** at **Tampere Vocational College**<br>🚀 I like working on small projects and improve my software development skills
+📚 Currently studying **Tieto- ja viestintätekniikan perustutkinto (ICT)** at **Tampere Vocational College**, Finland<br>🚀 I like working on small projects and improve my software development skills
 
 
 ## 🌐 Socials:
