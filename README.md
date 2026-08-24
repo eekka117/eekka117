@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eerik
-📚 Currently studying **Tieto- ja viestintätekniikan perustutkinto (ICT)** at **Tampere Vocational College**, Finland<br>🚀 I like working on small projects and improve my software development skills
-
+📚 Currently studying Bachelor of Engineering (AMK), Information and Communications Technology at Oulu University of Applied Sciences, Finland
+🚀 I enjoy working on small projects and improving my software development skills
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eerik.ojala) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/eekka117) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eekka117) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eerikojala1@gmail.com) 
